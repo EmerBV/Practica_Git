@@ -13,13 +13,13 @@
 **El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?**<br>
 *Sí, porque he modificado el mismo archivo en las mismas líneas y en dos ramas diferentes.*<br>
 **El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?**<br>
-*No, lo único que ha ejecutado ha sido un merge Fast-forward absorviendo los commits que tiene la rama styled.*<br>
+*No, lo único que ha ejecutado ha sido un merge Fast-forward absorbiendo los commits que tiene la rama styled.*<br>
 **¿Qué comando o comandos utilizaste en el paso 25?**<br>
 *Primero ejecuto el comando git log para ver el log de los commits de la rama master. Y finalmente ejecuto*<br>
 *el comando git log --graph*<br>
 **El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?**<br>
 *Sí, ya que absorbería igualmente el trabajo que hay hecho en la rama de title. Al igual que sin fast forward*<br>
-*absorvería los commits que hay en title sólo que éste generaría un commit nuevo con dos padres.*<br>
+*absorbería los commits que hay en title sólo que éste generaría un commit nuevo con dos padres.*<br>
 **¿Qué comando o comandos utilizaste en el paso 27?**<br>
 *Ejecuto el comando git reset HEAD~1*<br>
 **¿Qué comando o comandos utilizaste en el paso 28?**<br>
