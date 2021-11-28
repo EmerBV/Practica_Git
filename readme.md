@@ -29,9 +29,9 @@
 *Ejecuto el comando git branch -D title*<br>
 **¿Qué comando o comandos utilizaste en el paso 30?**<br>
 *Primero ejecuto el comando git reflog para ver el identificador del commit donde hice el merge y finalmente ejecuto*<br>
-*el comando git reset --hard mas el identificador correspondiente al merge que deshice.*<br>
+*el comando git reset --hard mas el identificador correspondiente al merge que deshice "106141e".*<br>
 **¿Qué comando o comandos usaste en el paso 32?**<br>
 *Primero ejecuto el comando git reflog para ver el identificador del commit inicial y finalmente ejecuto el comando*<br>
-*git checkout más el identificador del commit inicial.*<br>
+*git checkout más el identificador del commit inicial "313315f".*<br>
 **¿Qué comando o comandos usaste en el punto 33?**<br>
 *Ejecuto el comando git checkout master*<br>
